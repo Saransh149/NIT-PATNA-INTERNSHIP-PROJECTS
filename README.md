@@ -10,4 +10,12 @@ This project analyses the customer behaviour to predict whether the customer wil
 
 This project identifies the hand written data using computer vision.
 
+Architecture used:
+
+1.Neural Network
+2.Matplotlib
+3.keras
+4.Numpy
+5.Pandas
+
 The projects given above were created by Saransh Rajpurohit during his EICT NIT Patna Internship.
