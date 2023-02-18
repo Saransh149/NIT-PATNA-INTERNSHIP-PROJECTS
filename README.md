@@ -1,25 +1,25 @@
 1. House Price Predictor
 
- This project predicts the price of a house based on the information provided.
+   This project predicts the price of a house based on the information provided.
 
 2. Customer Behaviour Analysis
 
- This project analyses the customer behaviour to predict whether the customer will churn or not.
+   This project analyses the customer behaviour to predict whether the customer will churn or not.
 
 3. Hand Written Digit Recognizer 
 
- This project identifies the hand written data using computer vision.
+   This project identifies the hand written data using computer vision.
 
- Architecture used:
+   Architecture used:
 
-1.Neural Network
+    1.Neural Network
 
-2.Matplotlib
+    2.Matplotlib
 
-3.keras
+    3.keras
 
-4.Numpy
+    4.Numpy
 
-5.Pandas
+    5.Pandas
 
 The projects given above were created by Saransh Rajpurohit during his EICT NIT Patna Internship.
