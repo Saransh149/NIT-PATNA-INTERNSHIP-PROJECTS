@@ -1,6 +1,6 @@
 1. Hand Written Digit Recognizer 
 
-   This project identifies the hand written data using computer vision.
+   This project identifies the hand written numbers using computer vision.
 
    Architecture used:
 
